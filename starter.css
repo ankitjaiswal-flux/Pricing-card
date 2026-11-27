@@ -1,0 +1,96 @@
+/* =====================================================
+   PRICING CARD – STARTER FILE
+   Fill in each rule so your card matches the design PDF.
+   Hints tell you which properties to use.
+   Rename this file to style.css when you start.
+   ===================================================== */
+
+
+/* 1. Page
+   Hint: font-family, background-color (light grey),
+         margin, padding (space above the card) */
+body {
+
+}
+
+
+/* 2. The card box
+   Hint: background-color, width (about 320px),
+         margin: 0 auto (to centre it), padding,
+         border (2px solid green), border-radius, box-shadow */
+.card {
+
+}
+
+
+/* 3. "POPULAR" label
+   Hint: background-color (green), color (white),
+         font-size (small), font-weight, padding, border-radius */
+.badge {
+
+}
+
+
+/* 4. Plan name "Plus"
+   Hint: font-size, margin */
+.card h2 {
+
+}
+
+
+/* 5. Price "$20"
+   Hint: font-size (big), font-weight, margin */
+.price {
+
+}
+
+/* "USD / month" next to the price
+   Hint: font-size (small), font-weight: normal, color (gray) */
+.price span {
+
+}
+
+
+/* 6. Short description
+   Hint: color, font-size, line-height */
+.tagline {
+
+}
+
+
+/* 7. "Get Plus" button
+   Hint: display: block, background-color, color,
+         text-align, text-decoration: none, font-weight,
+         padding, border-radius, margin */
+.btn {
+
+}
+
+/* Button when the mouse is over it
+   Hint: a slightly darker background-color */
+.btn:hover {
+
+}
+
+
+/* 8. Feature list
+   Hint: list-style: none (removes the dots), padding, margin */
+.card ul {
+
+}
+
+/* Each feature line
+   Hint: padding, font-size, color,
+         border-bottom (a thin light line) */
+.card li {
+
+}
+
+
+/* Colours used in the design:
+   Green:        #10a37f
+   Dark green:   #0d8a6b  (button hover)
+   Page grey:    #f4f4f5
+   Text grey:    #444
+   Line colour:  #eee
+*/
